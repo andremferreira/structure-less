@@ -129,14 +129,14 @@
                     "lang": "pt_BR",
                     "title": "Conexão com o banco de dados.",
                     "info": "Conexões com o banco de dados foi realizada com sucesso!",
-                    "type": "info"
+                    "type": "success"
                 },
                 {
                     "id": 2,
                     "lang": "en_US",
                     "title": "Connected with database.",
                     "info": "Database connection has been established with success!",
-                    "type": "info"
+                    "type": "success"
                 }
             ]
         }
